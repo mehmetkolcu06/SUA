@@ -35,9 +35,9 @@ Pdf file named ProblemFormulation-SUA in "Surplus_Allocation/Docs" folder shows 
 
 ## Observations
 
-If Macro target percentage parameter increases, model become more flexabile and products with low costs substituted more for another product in the same group.
-This model allows to decide regular production amount for each product, and due to nature of Burr 12 distribution, Demand has high variation, that is why substituon amount is low for each product.
-If we set regular production amount for each product as predicted demand, and optimize surplus amount, mstly model becomes infeasible. since demand has high variation, and limited surplus capacity, these two constraint conflict and model become infeasible.
+- If Macro target percentage parameter increases, model become more flexabile and products with low costs substituted more for another product in the same group.
+- This model allows to decide regular production amount for each product, and due to nature of Burr 12 distribution, Demand has high variation, that is why substituon amount is low for each product.
+- If we set regular production amount for each product as predicted demand, and optimize surplus amount, mstly model becomes infeasible. since demand has high variation, and limited surplus capacity, these two constraint conflict and model become infeasible.
 
 ## Assumptions
 
