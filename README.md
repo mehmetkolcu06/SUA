@@ -39,7 +39,9 @@ If Macro target percentage parameter increases, model become more flexabile and 
 This model allows to decide regular production amount for each product, and due to nature of Burr 12 distribution, Demand has high variation, that is why substituon amount is low for each product.
 If we set regular production amount for each product as predicted demand, and optimize surplus amount, mstly model becomes infeasible. since demand has high variation, and limited surplus capacity, these two constraint conflict and model become infeasible.
 
+## Assumptions
 
+This model does not consider any penalty model when a product substituted for another. However, a logic can be implemeted in the cost function by adding a penalty option.
 
 
 
